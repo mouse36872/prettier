@@ -101,7 +101,7 @@ Show the world you're using _Prettier_ → [![code style: prettier](https://img.
 ```md
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 ```
-
+application/vnd.github.daredevil-preview+json
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md]
