@@ -104,4 +104,11 @@ Show the world you're using _Prettier_ → [![code style: prettier](https://img.
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+See [CONTRIBUTING.md](CONTRIBUTING.
+
+let scale = 1 / Float(n * 2)
+let recreatedSignal = recreatedObserved.map {
+    [$0.real * scale, $0.imag * scale]
+}.flatMap {
+    return $0
+}
